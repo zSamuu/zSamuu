@@ -1,5 +1,3 @@
-
-
 import pygame, sys, random
 pygame.display.set_caption("RageSucht Floppy Bird")
 #Hintergrund = pygame.image.load("assets/background-day.png")
